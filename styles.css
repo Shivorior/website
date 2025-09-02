@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #1a1a1a;
+    color: white;
+    margin: 0;
+}
+header {
+    background: #222;
+    padding: 1em;
+}
+header h2, header p {
+    margin: 0;
+}
+nav a {
+    color: #cfa54a;
+    margin-right: 1em;
+    text-decoration: none;
+}
+main {
+    padding: 2em;
+}
+.button {
+    background: #2266ee;
+    color: #fff;
+    padding: 0.5em 2em;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.controls input, .controls select {
+    margin: 0.5em;
+    padding: 0.5em;
+}
